@@ -1,8 +1,8 @@
-!requirements.txt
+.DS_Store
 checkpoints/
 results/
 .venv/
 *.json
 *.mp3
 *.txt
-.DS_Store
+!requirements.txt

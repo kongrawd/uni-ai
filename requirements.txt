@@ -1,0 +1,4 @@
+boto3
+yt-dlp
+requests
+argparse
