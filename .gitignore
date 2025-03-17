@@ -1,0 +1,6 @@
+checkpoints/
+results/
+.venv/
+*.json
+*.mp3
+*.txt
